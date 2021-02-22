@@ -1,4 +1,4 @@
-## APP CONFIG PATH FOR FRAMEWORK
+## APP CONFIG PATH
 
 ```sh
 $ nano /config/appConfig.js
