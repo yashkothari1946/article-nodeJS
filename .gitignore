@@ -1,0 +1,10 @@
+# MEAN.js app and assets
+# ======================
+.DS_Store
+config/appConfig.js
+
+
+# Node and related ecosystem
+# ==========================
+node_modules/
+public/uploads
