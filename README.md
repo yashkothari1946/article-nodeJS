@@ -1,4 +1,4 @@
-## APP CONFIG PATH FOR PEMN.JS FRAMEWORK
+## APP CONFIG PATH FOR FRAMEWORK
 
 ```sh
 $ nano /config/appConfig.js
